@@ -1,2 +1,2 @@
-# LCD_Display
-Short sketch to work with a LCD Display on Arduino Uno
+# LC_Display
+Short sketch to work with a LC Display on Arduino Uno
